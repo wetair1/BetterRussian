@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Better Russian 1.13-26.2 arabic",
+    "pack_format": 4,
+    "min_format": 4,
+    "max_format": 75,
+    "supported_formats": [4, 75]
+  }
+}
+
